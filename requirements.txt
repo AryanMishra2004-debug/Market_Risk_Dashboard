@@ -1,0 +1,11 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.8
+seaborn>=0.13
+yfinance>=0.2.40
+streamlit>=1.35
+plotly>=5.20
+nbformat>=5.10
+nbclient>=0.10
+jupyter>=1.0
